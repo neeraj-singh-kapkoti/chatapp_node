@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8000');
+const socket = io('https://fbc7-122-161-49-52.in.ngrok.io');
 
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
